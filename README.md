@@ -43,7 +43,7 @@ The aim of this project is to port the ESP32-Marauder firmware to the Cheap Yell
 
 ### Web Flasher Method (Recommended)
 
-1. Go to the [CYM Web Flasher](https://fr4nkfletcher.github.io/Adafruit_WebSerial_ESPTool/)
+1. Go to the [CYM Web Flasher](https://codehedge.github.io/Adafruit_WebSerial_ESPTool/)
 2. Click "Connect" and select your device
 3. Choose the appropriate Model and Version
 4. Click "Program" to start flashing
