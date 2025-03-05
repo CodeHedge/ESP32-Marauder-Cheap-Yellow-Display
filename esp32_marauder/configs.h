@@ -131,8 +131,8 @@
     #define HAS_GPS
     //#define CYD_24
     //#define CYD_24G //Guition 2.4"
-    //#define CYD_28
-    #define CYD_32
+    #define CYD_28
+    //#define CYD_32
     //#define CYD_35
     //#define HAS_TEMP_SENSOR
   #endif
